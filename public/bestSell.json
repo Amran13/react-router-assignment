@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "book_name": "The Midnight Library",
+      "book_img": "https://i.ibb.co/2qg7mw8/to-kill-a-mock-bird.jpg",
+      "author_name": "Matt Haig",
+      "publisher": "Viking",
+      "genre": "Fiction",
+      "rating": 4.3,
+      "price": 20.99,
+      "description": "A novel about second chances, possibility, and the power of the choices we make."
+    },
+    {
+      "id": 2,
+      "book_name": "Where the Crawdads Sing",
+      "book_img": "https://i.ibb.co/2qg7mw8/to-kill-a-mock-bird.jpg",
+      "author_name": "Delia Owens",
+      "publisher": "G.P. Putnam's Sons",
+      "genre": "Mystery",
+      "rating": 4.5,
+      "price": 24.99,
+      "description": "A mysterious story of survival and love set in the wild coastal marshes of North Carolina."
+    },
+    {
+      "id": 3,
+      "book_name": "A Promised Land",
+      "book_img": "https://i.ibb.co/2qg7mw8/to-kill-a-mock-bird.jpg",
+      "author_name": "Barack Obama",
+      "publisher": "Crown",
+      "genre": "Memoir",
+      "rating": 4.7,
+      "price": 29.99,
+      "description": "The memoir by the 44th president of the United States, Barack Obama, covering his early political career and presidency."
+    }
+  ]
+  
